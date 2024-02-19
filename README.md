@@ -3,6 +3,11 @@
 **Project Objective**
 Understanding of End to End Data Engineering Project with Hands on experience with Azure.
 
+**Project Architecture**
+End to End Retial Analytics Project using Azure Platform.
+<img width="927" alt="Arch" src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/d665c058-a45e-46c7-92d1-18c2e6977b83">
+
+
 **Tools & Technologies**
 List of all the components which are part of this project.
 
