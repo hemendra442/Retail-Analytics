@@ -1,6 +1,6 @@
 # Retail-Analytics
 
-## **Project Objective**
+**Project Objective**
 <span style="font-size:larger;">
 Implementing an End to End Retail Data Engineering Project with Azure
 </span>
@@ -11,11 +11,10 @@ End to End Retial Analytics Project using Azure Platform.
 
 
 ## **Tools & Technologies**
-<span style="font-size:larger;">
-List of all the components which are part of this project.
-</span>
+<span style="font-size:larger;"> List of all the components which are part of this project.</span>
 
 <span style="font-size:20px;">
+
 Data sources          : web services
 
 Ingestion tool        : Azure Data Factory
