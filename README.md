@@ -4,9 +4,14 @@
 Understanding of End to End Data Engineering Project with Hands on experience with Azure.
 
 **Tools & Technologies**
-Azure Data Factory, Databricks, PowerBI
-Python, SQL, Pyspark
+List of all the components which are part of this project.
 
+Data sources          : web services
+Ingestion tool        : Azure Data Factory
+Storage solutions     : Azure Data Lake Storage
+Data processing       : Azure Databricks
+Data consumption tool : Power BI
+Programming Languages : Pyspark
 
 Data:-
 I have used a data set from Kaggle which has 4 Years of Retail Data
