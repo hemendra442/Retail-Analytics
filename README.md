@@ -11,11 +11,16 @@ End to End Retial Analytics Project using Azure Platform.
 **Tools & Technologies**
 List of all the components which are part of this project.
 
-:----Data sources          : web services ----:
-:----Ingestion tool        : Azure Data Factory ----:
+Data sources          : web services
+
+Ingestion tool        : Azure Data Factory
+
 Storage solutions     : Azure Data Lake Storage 
+
 Data processing       : Azure Databricks 
+
 Data consumption tool : Power BI 
+
 Programming Languages : Pyspark
 
 Data:-
