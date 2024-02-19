@@ -1,7 +1,7 @@
 # Retail-Analytics
 
 **Project Objective**
-Understanding of End to End Data Engineering Project with Hands on experience with Azure.
+Implementing an End to End Retail Data Engineering Project with Azure
 
 **Project Architecture**
 End to End Retial Analytics Project using Azure Platform.
@@ -11,8 +11,8 @@ End to End Retial Analytics Project using Azure Platform.
 **Tools & Technologies**
 List of all the components which are part of this project.
 
-Data sources          : web services
-Ingestion tool        : Azure Data Factory 
+:----Data sources          : web services ----:
+:----Ingestion tool        : Azure Data Factory ----:
 Storage solutions     : Azure Data Lake Storage 
 Data processing       : Azure Databricks 
 Data consumption tool : Power BI 
