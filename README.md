@@ -6,7 +6,7 @@ Understanding of End to End Data Engineering Project with Hands on experience wi
 **Tools & Technologies**
 List of all the components which are part of this project.
 
-Data sources          : web services \n
+Data sources          : web services /n
 Ingestion tool        : Azure Data Factory \n
 Storage solutions     : Azure Data Lake Storage \n
 Data processing       : Azure Databricks \n
