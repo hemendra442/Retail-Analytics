@@ -6,12 +6,12 @@ Understanding of End to End Data Engineering Project with Hands on experience wi
 **Tools & Technologies**
 List of all the components which are part of this project.
 
-Data sources          : web services
-Ingestion tool        : Azure Data Factory
-Storage solutions     : Azure Data Lake Storage
-Data processing       : Azure Databricks
-Data consumption tool : Power BI
-Programming Languages : Pyspark
+Data sources          : web services \n
+Ingestion tool        : Azure Data Factory \n
+Storage solutions     : Azure Data Lake Storage \n
+Data processing       : Azure Databricks \n
+Data consumption tool : Power BI \n
+Programming Languages : Pyspark \n
 
 Data:-
 I have used a data set from Kaggle which has 4 Years of Retail Data
