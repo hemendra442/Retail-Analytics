@@ -13,7 +13,8 @@ I have used a data set from Kaggle which has 4 Years of Retail Data
 
 **Data Ingestion**
 Using AZure Data Factory AD Data Pipeleine, ingested data from Github to Azure Blob Storeage.
-<img width="910" alt="Data_ingestion" src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/12af4e76-e7e3-43e5-adf0-587f9ec19a80">
+<img width="1221" alt="ADF_Ingestion" src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/2d1a240b-7e29-40bd-91be-e17636164810">
+
 Data Ingestion Output :-
 <img width="1057" alt="ADLS_Ingestion" src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/4d709341-05b1-4db1-a153-a73f9d4d7cdf">
 
