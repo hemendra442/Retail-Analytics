@@ -28,11 +28,14 @@ Data consumption tool : Power BI
 Programming Languages : Pyspark
 </span>
 
+
 **Data**:-
-I have used a data set from Kaggle which has 4 Years of Retail Data
+Retail Sales source dataset from Kaggle
+https://www.kaggle.com/datasets/tforsyth/4-year-historical-sales-data?select=master_product.csv
+
 
 # **Data Ingestion**
-Using AZure Data Factory AD Data Pipeleine, ingested data from Github to Azure Blob Storeage.
+Using AZure Data Factory AD Data Pipeleine, ingested data from Kaggle to Azure Blob Storeage.
 <img width="1221" alt="ADF_Ingestion" src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/2d1a240b-7e29-40bd-91be-e17636164810">
 
 ## **Data Ingestion Output** :-
