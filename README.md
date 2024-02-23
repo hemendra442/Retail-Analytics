@@ -44,4 +44,7 @@ ADLS Processed Data:-
 <img width="915" alt="ADLS " src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/57292883-935e-451d-958f-b42f82f8044c">
 
 # **Data Visualization**
-PowerBI to create a Dash Board
+PowerBI to create a Dash Board ob Processed data.
+
+<img width="1440" alt="Screenshot 2024-02-23 at 12 39 02 AM" src="https://github.com/hemendra442/Retail-Analytics/assets/31797686/244d5a29-0297-4652-bfa4-50ba2066dfa4">
+
