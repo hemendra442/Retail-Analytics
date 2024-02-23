@@ -31,7 +31,9 @@ Programming Languages : Pyspark
 
 
 **Data**:-
-Retail Sales source dataset from Kaggle
+
+Retail Sales source dataset from Kaggle.
+
 https://www.kaggle.com/datasets/tforsyth/4-year-historical-sales-data?select=master_product.csv
 
 
